@@ -1,0 +1,7 @@
+#Thu Aug 31 17:22:33 JST 2017
+base.0=/Users/sonworks/Documents/SqliteSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4ee359d955bf42faa3498fe5012e3baf16ed4e12
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/sonworks/Documents/SqliteSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dfeea730732dd0b980bba7807485b4a85b99967a/classes.dex
+base.1=/Users/sonworks/Documents/SqliteSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dfeea730732dd0b980bba7807485b4a85b99967a
+file.0=/Users/sonworks/Documents/SqliteSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4ee359d955bf42faa3498fe5012e3baf16ed4e12/classes.dex

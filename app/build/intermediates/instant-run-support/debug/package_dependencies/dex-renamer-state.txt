@@ -1,0 +1,4 @@
+#Thu Aug 31 17:22:32 JST 2017
+base.0=/Users/sonworks/Documents/SqliteSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_c8efbd7e53037e98ab85edc3516422bb143a136a
+renamed.0=classes.dex
+file.0=/Users/sonworks/Documents/SqliteSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_c8efbd7e53037e98ab85edc3516422bb143a136a/classes.dex
